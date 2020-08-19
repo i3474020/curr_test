@@ -1,0 +1,11 @@
+.curr_table {
+  border-collapse: collapse;
+}
+.curr_table td, .curr_table th{
+  padding: 3px;
+  border: solid 1px gray;
+}
+
+.board {
+  display: flex;
+}
